@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hackerIlia
+- 👋 Hi, I’m Ilia
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate with friendly colleagues
